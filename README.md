@@ -1,5 +1,7 @@
 Android Volley  
 ----------
+이 프로젝트는 volley에서 multipart 전송 기능(fixed와 chunked 모드 둘 다 지원)과 gson request 기능을 추가한 저장소이다.
+
 This is an unofficial mirror for [android volley library](https://android.googlesource.com/platform/frameworks/volley), the source code will synchronize periodically with the official volley repository.
 
 ## Introduction
